@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Rana/Documents/GitHub/TheGathering_2025/Content/ST_Unit.uasset",
+				"C:/Users/Rana/Documents/GitHub/TheGathering_2025/Content/BPW_Module.uasset",
+				"C:/Users/Rana/Documents/GitHub/TheGathering_2025/Content/ST_Module.uasset",
+				"C:/Users/Rana/Documents/GitHub/TheGathering_2025/Content/BPW_MainGame.uasset",
+				"C:/Users/Rana/Documents/GitHub/TheGathering_2025/Content/myGameMode.uasset"
+			]
+		}
+	]
+}
